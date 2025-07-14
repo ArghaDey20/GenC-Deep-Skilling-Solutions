@@ -1,0 +1,5 @@
+# Created at 2025-07-12T12:06:52.983
+Boot Manifest-JAR contains absolute paths in classpath 'F:\spring-learn\spring-learn\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
